@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "name": "Breakfast",
+      "items": [
+        {
+          "available": true,
+          "name": "EGGSS",
+          "price": "Rs. 250 |-"
+        }
+      ]
+    }
+  ]
+}

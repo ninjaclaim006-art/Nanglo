@@ -1,9 +1,0 @@
-{
-  "images": [
-    { "src": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1200&auto=format&fit=crop", "caption": "Dining room" },
-    { "src": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=700&auto=format&fit=crop", "caption": "Curry dish" },
-    { "src": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?q=80&w=700&auto=format&fit=crop", "caption": "Momo plate" },
-    { "src": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=700&auto=format&fit=crop", "caption": "Outdoor seating area" },
-    { "src": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=700&auto=format&fit=crop", "caption": "Grilled sekuwa skewers" }
-  ]
-}

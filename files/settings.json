@@ -1,0 +1,25 @@
+{
+  "hero_eyebrow": "MECHINAGAR · JHAPA, NEPAL",
+  "hero_title": "Nepali dining,\ndone unhurried.",
+  "hero_subtitle": "An all-you-can-eat table, a private room for the occasions that call for one, and a kitchen that hasn't cut a corner since it opened.",
+  "phone": "980-349-2963",
+  "phone_link": "9803492963",
+  "rating": "4.8",
+  "reviews": "506",
+  "price": "Rs 5,000+",
+  "price_note": "per person, reported by 398 guests",
+  "hours_note": "Open now · Closes 11:30 PM",
+  "about_heading": "Named for the tray that started it all.",
+  "about_text_1": "A nanglo — the round bamboo tray found in every Nepali kitchen — is where this restaurant takes its name and its philosophy. We serve the food our grandmothers made, prepared with the same patience, just for more people at once.",
+  "about_text_2": "[Replace with the real story: when the restaurant opened, who runs it, and what makes the Dhulabari location worth the drive.]",
+  "hero_bg_image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?q=80&w=1800&auto=format&fit=crop",
+  "about_image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=900&auto=format&fit=crop",
+  "hours": [
+    { "days": "Sunday – Friday", "time": "11:00 AM – 11:30 PM" },
+    { "days": "Saturday", "time": "11:00 AM – 11:30 PM" },
+    { "days": "Festival hours", "time": "May vary — call ahead" }
+  ],
+  "address": "Mechinagar-10, Jhapa",
+  "map_embed_url": "https://maps.google.com/maps?q=Mechinagar-10,Jhapa,Nepal&z=15&output=embed",
+  "web3forms_key": "YOUR_WEB3FORMS_ACCESS_KEY"
+}

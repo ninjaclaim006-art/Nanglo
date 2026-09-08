@@ -1,0 +1,690 @@
+{
+  "categories": [
+    {
+      "name": "Beer",
+      "slug": "beer",
+      "items": [
+        {
+          "name": "Gorkha Big",
+          "price": "Rs 450",
+          "available": true
+        },
+        {
+          "name": "Gorkha Small",
+          "price": "Rs 220",
+          "available": true
+        },
+        {
+          "name": "Tuborg Big",
+          "price": "Rs 550",
+          "available": true
+        },
+        {
+          "name": "Carlsberg Big",
+          "price": "Rs 620",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Imported Whiskey",
+      "slug": "imported-whiskey",
+      "items": [
+        {
+          "name": "Red Label",
+          "price": "Rs 650",
+          "available": true
+        },
+        {
+          "name": "Black Label",
+          "price": "Rs 800",
+          "available": true
+        },
+        {
+          "name": "Double Black Label",
+          "price": "Rs 900",
+          "available": true
+        },
+        {
+          "name": "Jameson",
+          "price": "Rs 820",
+          "available": true
+        },
+        {
+          "name": "Jack Daniels",
+          "price": "Rs 700",
+          "available": true
+        },
+        {
+          "name": "Vat 69",
+          "price": "Rs 690",
+          "available": true
+        },
+        {
+          "name": "Chivas Regal",
+          "price": "Rs 850",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Wine",
+      "slug": "wine",
+      "items": [
+        {
+          "name": "Robertson",
+          "price": "Rs 2,250",
+          "available": true
+        },
+        {
+          "name": "Big Master",
+          "price": "Rs 1,100",
+          "available": true
+        },
+        {
+          "name": "Canvas",
+          "price": "Rs 1,100",
+          "available": true
+        },
+        {
+          "name": "Divin",
+          "price": "Rs 1,050",
+          "available": true
+        },
+        {
+          "name": "King's Hill Full",
+          "price": "Rs 1,200",
+          "available": true
+        },
+        {
+          "name": "Calvet Merlot",
+          "price": "Rs 2,450",
+          "available": true
+        },
+        {
+          "name": "Saipal Red White",
+          "price": "Rs 1,200",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Domestic Whiskey",
+      "slug": "domestic-whiskey",
+      "items": [
+        {
+          "name": "Old Durbar",
+          "price": "Rs 335",
+          "available": true
+        },
+        {
+          "name": "Black Chimney",
+          "price": "Rs 400",
+          "available": true
+        },
+        {
+          "name": "Red Signature",
+          "price": "Rs 270",
+          "available": true
+        },
+        {
+          "name": "Gurkas & Guns",
+          "price": "Rs 350",
+          "available": true
+        },
+        {
+          "name": "Kala Patthar",
+          "price": "Rs 370",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Champagne",
+      "slug": "champagne",
+      "items": [
+        {
+          "name": "Sula Seco",
+          "price": "Rs 4,800",
+          "available": true
+        },
+        {
+          "name": "Sula Brut",
+          "price": "Rs 4,800",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Vodka",
+      "slug": "vodka",
+      "items": [
+        {
+          "name": "8848",
+          "price": "Rs 250",
+          "available": true
+        },
+        {
+          "name": "Smirnoff",
+          "price": "Rs 250",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Hukka",
+      "slug": "hukka",
+      "items": [
+        {
+          "name": "Mint",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Panras",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Double Apple",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Mix Hukka",
+          "price": "Rs 600",
+          "available": true
+        },
+        {
+          "name": "Extra Coil",
+          "price": "Rs 50",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soft Drinks",
+      "slug": "soft-drinks",
+      "items": [
+        {
+          "name": "Apple Cider",
+          "price": "Rs 250",
+          "available": true
+        },
+        {
+          "name": "Xtrem",
+          "price": "Rs 170",
+          "available": true
+        },
+        {
+          "name": "Red Bull",
+          "tag": "Y",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Red Bull",
+          "tag": "B",
+          "price": "Rs 300",
+          "available": true
+        },
+        {
+          "name": "Badam Juice",
+          "price": "Rs 125",
+          "available": true
+        },
+        {
+          "name": "Coke, Sprite, Fanta",
+          "tag": "1 Ltr",
+          "price": "Rs 160",
+          "available": true
+        },
+        {
+          "name": "Coke, Sprite, Fanta",
+          "tag": "250ml",
+          "price": "Rs 80",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Special Juice",
+      "slug": "special-juice",
+      "items": [
+        {
+          "name": "Mojito",
+          "price": "Rs 300",
+          "available": true
+        },
+        {
+          "name": "Bubble Tea Strawberry",
+          "price": "Rs 250",
+          "available": true
+        },
+        {
+          "name": "Bubble Tea Chocolate",
+          "price": "Rs 250",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Starter — Non Veg",
+      "slug": "starter-nonveg",
+      "items": [
+        {
+          "name": "Chicken Dameko",
+          "price": "Rs 350",
+          "available": true
+        },
+        {
+          "name": "Chicken Chilly",
+          "price": "Rs 300",
+          "available": true
+        },
+        {
+          "name": "Chicken Roast",
+          "price": "Rs 350",
+          "available": true
+        },
+        {
+          "name": "Chicken Lolipop",
+          "tag": "Dry",
+          "price": "Rs 480",
+          "available": true
+        },
+        {
+          "name": "Chicken Lolipop",
+          "tag": "Sauce",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Chicken Leg Piece",
+          "tag": "per pc",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "Chicken Choila",
+          "price": "Rs 360",
+          "available": true
+        },
+        {
+          "name": "Chicken Wings",
+          "tag": "per pc",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Sausage Fry",
+          "price": "Rs 60",
+          "available": true
+        },
+        {
+          "name": "Sausage Chilly",
+          "price": "Rs 180",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mutton Items",
+      "slug": "mutton",
+      "items": [
+        {
+          "name": "Mutton Chilly",
+          "price": "Rs 400",
+          "available": true
+        },
+        {
+          "name": "Mutton Sadeko",
+          "tag": "Boil",
+          "price": "Rs 450",
+          "available": true
+        },
+        {
+          "name": "Mutton Sadeko",
+          "tag": "Fry",
+          "price": "Rs 450",
+          "available": true
+        },
+        {
+          "name": "Bhuttan Khaja Set",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Bhuttan",
+          "price": "Rs 350",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sadeko Items",
+      "slug": "sadeko",
+      "items": [
+        {
+          "name": "Peanut Sadeko",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "Bhatmas Sadeko",
+          "price": "Rs 180",
+          "available": true
+        },
+        {
+          "name": "Wai Wai Sadeko",
+          "price": "Rs 100",
+          "available": true
+        },
+        {
+          "name": "Chatpate",
+          "price": "Rs 120",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sekuwa Items",
+      "slug": "sekuwa",
+      "items": [
+        {
+          "name": "Mutton Sekuwa",
+          "price": "Rs 450",
+          "available": true
+        },
+        {
+          "name": "Chicken Sekuwa",
+          "price": "Rs 300",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Fresh Juice",
+      "slug": "fresh-juice",
+      "items": [
+        {
+          "name": "Mojito",
+          "price": "Rs 300",
+          "available": true
+        },
+        {
+          "name": "Seasonable Fresh Juice",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "Seasonable Mix Fresh Juice",
+          "price": "Rs 300",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bubble Tea",
+      "slug": "bubble-tea",
+      "items": [
+        {
+          "name": "Chocolate Bubble Tea",
+          "price": "Rs 250",
+          "available": true
+        },
+        {
+          "name": "Strawberry Bubble Tea",
+          "price": "Rs 250",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Lassi",
+      "slug": "lassi",
+      "items": [
+        {
+          "name": "Banana Lassi",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "Plain Lassi",
+          "price": "Rs 150",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tea & Coffee",
+      "slug": "tea-coffee",
+      "items": [
+        {
+          "name": "Milk Tea",
+          "price": "Rs 50",
+          "available": true
+        },
+        {
+          "name": "Black Tea",
+          "price": "Rs 40",
+          "available": true
+        },
+        {
+          "name": "Lemon Tea",
+          "price": "Rs 50",
+          "available": true
+        },
+        {
+          "name": "Black Coffee",
+          "price": "Rs 80",
+          "available": true
+        },
+        {
+          "name": "Milk Coffee",
+          "price": "Rs 120",
+          "available": true
+        },
+        {
+          "name": "Green Tea",
+          "price": "Rs 50",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "slug": "pizza",
+      "items": [
+        {
+          "name": "Veg Pizza",
+          "price": "Rs 450",
+          "available": true
+        },
+        {
+          "name": "Chicken Pizza",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Sausage Pizza",
+          "price": "Rs 480",
+          "available": true
+        },
+        {
+          "name": "Mushroom Pizza",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Mix Pizza",
+          "price": "Rs 550",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "slug": "burgers",
+      "items": [
+        {
+          "name": "Veg Burger with Fries",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger with Fries",
+          "price": "Rs 250",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Starter — Veg",
+      "slug": "starter-veg",
+      "items": [
+        {
+          "name": "Veg Pakoda",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Paneer Pakoda",
+          "price": "Rs 280",
+          "available": true
+        },
+        {
+          "name": "Onion Pakoda",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "French Fries",
+          "price": "Rs 200",
+          "available": true
+        },
+        {
+          "name": "Aalu Jeera",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Paneer Chilly",
+          "price": "Rs 300",
+          "available": true
+        },
+        {
+          "name": "Mushroom Chilly",
+          "price": "Rs 300",
+          "available": true
+        },
+        {
+          "name": "Mushroom Pakoda",
+          "price": "Rs 250",
+          "available": true
+        },
+        {
+          "name": "Masala Papad",
+          "tag": "Dry/Fry",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Crispy Corn",
+          "tag": "Salt Pepper",
+          "price": "Rs 250",
+          "available": true
+        },
+        {
+          "name": "Crispy Corn",
+          "tag": "Boil Sadeko",
+          "price": "Rs 220",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soup",
+      "slug": "soup",
+      "items": [
+        {
+          "name": "Manchow Soup",
+          "tag": "Veg",
+          "price": "Rs 120",
+          "available": true
+        },
+        {
+          "name": "Manchow Soup",
+          "tag": "Non Veg",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Hot & Sour Soup",
+          "tag": "Veg",
+          "price": "Rs 120",
+          "available": true
+        },
+        {
+          "name": "Hot & Sour Soup",
+          "tag": "Non Veg",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Clear Soup",
+          "tag": "Veg",
+          "price": "Rs 120",
+          "available": true
+        },
+        {
+          "name": "Clear Soup",
+          "tag": "Non Veg",
+          "price": "Rs 150",
+          "available": true
+        },
+        {
+          "name": "Mushroom Soup",
+          "price": "Rs 180",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "नाङ्लो Special",
+      "slug": "nanglo-special",
+      "items": [
+        {
+          "name": "Nanglo Set",
+          "price": "Rs 2,000",
+          "available": true
+        },
+        {
+          "name": "Whole Chicken",
+          "price": "Rs 1,500",
+          "available": true
+        },
+        {
+          "name": "Nanglo Veg Khaja Set",
+          "price": "Rs 500",
+          "available": true
+        },
+        {
+          "name": "Nanglo Chicken Khaja Set",
+          "price": "Rs 400",
+          "available": true
+        },
+        {
+          "name": "Nanglo Mutton Khaja Set",
+          "price": "Rs 600",
+          "available": true
+        },
+        {
+          "name": "Jate Fry",
+          "price": "Rs 350",
+          "available": true
+        }
+      ]
+    }
+  ]
+}
